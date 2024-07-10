@@ -1,0 +1,4 @@
+name,age,hobbies,favorite_books,contact_info,address
+John,25,reading;hiking,"fiction:1984,non-fiction:The Art of Thinking Clearly","john@example.com,555-1234",$id_1$
+Jane,30,swimming;dancing,"fiction:Pride and Prejudice,non-fiction:Sapiens","jane@example.com,555-5678",$id_2$
+Bob,40,gardening;cooking,"fiction:The Great Gatsby,non-fiction:Atomic Habits","bob@example.com,555-9101",$id_3$

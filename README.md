@@ -55,5 +55,5 @@ people_from_csv = mapper.from_csv_file("people.csv")
 * Ensure that the fields parameter in ObjectCSVMapper matches the attributes of the objects you are mapping.
 * The to_csv and from_csv methods handle the conversion of complex data types.
 * When linking custom objects (e.g., Address) within another object (e.g., Person), a unique identifier is used to facilitate correct mapping during deserialization.
-* 
+  
 This example demonstrates the flexibility and utility of ObjectCSVMapper for handling complex object serialization and deserialization in Python.
